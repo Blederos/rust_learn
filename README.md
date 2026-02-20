@@ -1,4 +1,4 @@
-"# rust_learn"
+# rust_learn
 echo "# rust_learn" >> README.md
 git init
 git add README.md
